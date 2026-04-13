@@ -1,7 +1,4 @@
 # 📝 Text Editor (Python)
-
-![Preview](img/1.png)
-
 ---
 
 ## 🚀 Overview
