@@ -60,19 +60,19 @@ python main.py
 
 ### 🧾 Main Editor Interface
 
-![Main UI](img/1.png)
+![Main UI](Img/1.png)
 
 ---
 
 ### 🌙 Dark Mode
 
-![Dark Mode](img/2.png)
+![Dark Mode](Img/2.png)
 
 ---
 
 ### 🔁 Undo / Redo Feature
 
-![Undo Redo](img/1.png)
+![Undo Redo](Img/1.png)
 
 ---
 
